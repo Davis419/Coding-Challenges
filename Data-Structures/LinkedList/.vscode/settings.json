@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp",
+        "cstdlib": "cpp",
+        "ctime": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
