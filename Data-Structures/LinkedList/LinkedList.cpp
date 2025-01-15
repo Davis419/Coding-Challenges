@@ -4,6 +4,7 @@ using namespace std;
 
 LinkedList::LinkedList()
 {
+    
     front = NULL;
     count = 0;
 }
