@@ -4,6 +4,7 @@
 
 class LinkedList
 {
+
     private:
         int count;
         Node* front;
