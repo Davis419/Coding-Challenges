@@ -3,6 +3,7 @@
 
 class DoublyList
 {
+
     private:
         int count;
         Node* front;
