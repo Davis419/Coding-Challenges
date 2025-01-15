@@ -17,6 +17,7 @@ Node::Node(int d)
 
 class Stack
 {
+
     private:
         int count;
         Node* top;
