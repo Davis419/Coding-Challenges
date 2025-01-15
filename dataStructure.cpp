@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+    
     LinkedList* alist = new LinkedList();
     
     alist->addAtFront(2);
