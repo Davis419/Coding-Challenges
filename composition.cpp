@@ -3,6 +3,7 @@ using namespace std;
 
 int seq(int begin, int end, int step)
 {
+    
     bool isDone = true;
 
     int sum = 0;
