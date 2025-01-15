@@ -11,6 +11,7 @@ int main()
     list->insert(2);
     list->insert(6);
     
+    
     LinkedList* anotherList = new LinkedList();
     anotherList->insert(1);
     anotherList->insert(10);
