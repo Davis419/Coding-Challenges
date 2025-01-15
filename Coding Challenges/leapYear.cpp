@@ -14,7 +14,9 @@ void leapYear(int year)
     if(leap == 0){
         cout<<"You were born in a leap year hooray"<<endl;
     }else{
+        /* display the message */
         cout<<"Sorry, sadly you weren't born in a leap year"<<endl;
+        
     }
 }
 
