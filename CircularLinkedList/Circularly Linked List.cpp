@@ -7,6 +7,7 @@ using namespace std;
 
 struct Node
 {
+
 	int data;
 	Node* forward;
 	Node* backward;
