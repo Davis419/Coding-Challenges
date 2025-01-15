@@ -5,6 +5,7 @@ using namespace std;
 
 DoublyList::DoublyList()
 {
+    
     count = 0;
     front = rear = NULL;
 }
