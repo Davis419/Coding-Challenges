@@ -28,6 +28,6 @@ string reverseString(string str)
 int main()
 {
 
-    cout<<reverseString("Sbusiso")<<endl;
+    cout<<reverseString("Davis")<<endl;
     return 0;
 }
