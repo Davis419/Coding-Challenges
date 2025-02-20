@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 
-
 Node::Node(int d)
 {
     data = d;
